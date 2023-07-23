@@ -5,7 +5,4 @@
 	<script src="client-scripts/interfaceGUI.nut" type="client" />
 	<script src="client-scripts/dajLage.nut" type="client" />
 	<script src="server-scripts/S_dajLage.nut" type="server" />
-	
-	<script src="client-scripts/bow.nut" type="client" />
-	<script src="server-scripts/Sbow.nut" type="server" />
 </server>
